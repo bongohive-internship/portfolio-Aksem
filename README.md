@@ -24,7 +24,7 @@ Good to have.
 - Node (Download it [here](https://nodejs.org/en/download/) )
 - Git Bash on windows(Download it [here](https://gitforwindows.org))
 
-If you are on windows you might also like to get the ]chocolate package manager](https://chocolatey.org)
+If you are on windows you might also like to get the [chocolate package manager](https://chocolatey.org)
 
 Follow the steps below, use git bash if you are on windows and terminal on other platforms
 
