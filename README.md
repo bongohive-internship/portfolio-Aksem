@@ -30,7 +30,8 @@ Follow the steps below, use git bash if you are on windows and terminal on other
 
 clone the repo
 
-`git clone https://github.com/BongoHive/react-1.git my-portfolio` 
+`git clone https://github.com/BongoHive/reponame.git my-portfolio`  
+⚠️ Please replace `reponame` in the above link ☝🏾 with the name of this repo
 
 `cd my-portfolio`
 
