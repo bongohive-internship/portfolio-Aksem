@@ -44,3 +44,5 @@ start the dev server
 
 And get hacking .... 😀🚀
 
+**Note**: If you have any problem, create an issue in this repository explaining the problem
+
