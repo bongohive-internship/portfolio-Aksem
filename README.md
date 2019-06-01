@@ -1,3 +1,5 @@
+> You will find all the shared resources about react [here](https://github.com/BongoHive/front-end-learning-resources#advanced-phase) Make sure you go through those materials first.
+
 ### To-do
 
 The overall goal of this assignment is to create your personal portfolio, It should have the following:
