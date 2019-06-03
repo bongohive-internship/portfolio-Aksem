@@ -7,7 +7,7 @@ The overall goal of this assignment is to create your personal portfolio, It sho
 - Academic information(Like schools attended)
 - Favourite Programming languages
 - Your photo
-- Your soft skilss
+- Your soft skills
 - What you would like to learn
 - Hobbies
 - Fears
@@ -45,6 +45,14 @@ start the dev server
 
 `npm start` this will also open it in your default browser
 
+if you face errors when you run npm install change package manager by doing the following
+ - open another terminal
+ - run npm install yarn --global
+ - cd back into you portfolio project
+ - instead of running npm install, run yarn install
+ - this should get the project package manger running
+ 
+ 
 And get hacking .... 😀🚀
 
 **Note**: If you have any problem, create an issue in this repository explaining the problem
