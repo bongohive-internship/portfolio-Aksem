@@ -47,9 +47,9 @@ start the dev server
 
 if you face errors when you run npm install change package manager by doing the following
  - open another terminal
- - run npm install yarn --global
+ - run `npm install yarn --global`
  - cd back into you portfolio project
- - instead of running npm install, run yarn install
+ - instead of running <del>`npm install`</del>, run `yarn`
  - this should get the project package manger running
  
  
